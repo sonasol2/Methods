@@ -1,0 +1,15 @@
+/Users/sergejpopovic/Projects/Methods/Methods/bin/Debug/net7.0/Methods
+/Users/sergejpopovic/Projects/Methods/Methods/bin/Debug/net7.0/Methods.deps.json
+/Users/sergejpopovic/Projects/Methods/Methods/bin/Debug/net7.0/Methods.runtimeconfig.json
+/Users/sergejpopovic/Projects/Methods/Methods/bin/Debug/net7.0/Methods.dll
+/Users/sergejpopovic/Projects/Methods/Methods/bin/Debug/net7.0/Methods.pdb
+/Users/sergejpopovic/Projects/Methods/Methods/obj/Debug/net7.0/Methods.csproj.AssemblyReference.cache
+/Users/sergejpopovic/Projects/Methods/Methods/obj/Debug/net7.0/Methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergejpopovic/Projects/Methods/Methods/obj/Debug/net7.0/Methods.AssemblyInfoInputs.cache
+/Users/sergejpopovic/Projects/Methods/Methods/obj/Debug/net7.0/Methods.AssemblyInfo.cs
+/Users/sergejpopovic/Projects/Methods/Methods/obj/Debug/net7.0/Methods.csproj.CoreCompileInputs.cache
+/Users/sergejpopovic/Projects/Methods/Methods/obj/Debug/net7.0/Methods.dll
+/Users/sergejpopovic/Projects/Methods/Methods/obj/Debug/net7.0/refint/Methods.dll
+/Users/sergejpopovic/Projects/Methods/Methods/obj/Debug/net7.0/Methods.pdb
+/Users/sergejpopovic/Projects/Methods/Methods/obj/Debug/net7.0/Methods.genruntimeconfig.cache
+/Users/sergejpopovic/Projects/Methods/Methods/obj/Debug/net7.0/ref/Methods.dll
