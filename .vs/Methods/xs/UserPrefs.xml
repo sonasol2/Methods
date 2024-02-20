@@ -8,12 +8,14 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workbench ActiveDocument="Methods/Program.cs">
     <Files>
-      <File FileName="Methods/Program.cs" Line="34" Column="43" />
+      <File FileName="Methods/Program.cs" Line="38" Column="6" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Methods" expanded="True" />
+          <Node name="Methods" expanded="True">
+            <Node name="Methods" expanded="True" />
+          </Node>
         </State>
       </Pad>
     </Pads>
